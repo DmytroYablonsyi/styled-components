@@ -5,7 +5,7 @@ const Header = ({title}) => {
         return(
         <div>
             <Head>
-                <Icon src="https://cdn-icons-png.flaticon.com/512/3064/3064155.png"></Icon>
+                <Icon src="https://cdn-icons-png.flaticon.com/512/9068/9068751.png"></Icon>
                 <Title>{title}</Title>
             </Head>
         </div>
